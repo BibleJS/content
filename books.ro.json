@@ -1,0 +1,266 @@
+[
+    {
+        "id": "1",
+        "book": "Geneza"
+    },
+    {
+        "id": "2",
+        "book": "Exodul"
+    },
+    {
+        "id": "3",
+        "book": "Leviticul"
+    },
+    {
+        "id": "4",
+        "book": "Numeri"
+    },
+    {
+        "id": "5",
+        "book": "Deuteronomul"
+    },
+    {
+        "id": "6",
+        "book": "Iosua"
+    },
+    {
+        "id": "7",
+        "book": "Judecători"
+    },
+    {
+        "id": "8",
+        "book": "Rut"
+    },
+    {
+        "id": "9",
+        "book": "1 Samuel"
+    },
+    {
+        "id": "10",
+        "book": "2 Samuel"
+    },
+    {
+        "id": "11",
+        "book": "1 Împăraţi"
+    },
+    {
+        "id": "12",
+        "book": "2 Împăraţi"
+    },
+    {
+        "id": "13",
+        "book": "1 Cronici"
+    },
+    {
+        "id": "14",
+        "book": "2 Cronici"
+    },
+    {
+        "id": "15",
+        "book": "Ezra"
+    },
+    {
+        "id": "16",
+        "book": "Neemia"
+    },
+    {
+        "id": "17",
+        "book": "Estera"
+    },
+    {
+        "id": "18",
+        "book": "Iov"
+    },
+    {
+        "id": "19",
+        "book": "Psalmii"
+    },
+    {
+        "id": "20",
+        "book": "Proverbe"
+    },
+    {
+        "id": "21",
+        "book": "Eclesiastul"
+    },
+    {
+        "id": "22",
+        "book": "Cântarea cântărilor"
+    },
+    {
+        "id": "23",
+        "book": "Isaia"
+    },
+    {
+        "id": "24",
+        "book": "Ieremia"
+    },
+    {
+        "id": "25",
+        "book": "Plângerile lui Ieremia"
+    },
+    {
+        "id": "26",
+        "book": "Ezechiel"
+    },
+    {
+        "id": "27",
+        "book": "Daniel"
+    },
+    {
+        "id": "28",
+        "book": "Osea"
+    },
+    {
+        "id": "29",
+        "book": "Ioel"
+    },
+    {
+        "id": "30",
+        "book": "Amos"
+    },
+    {
+        "id": "31",
+        "book": "Obadia"
+    },
+    {
+        "id": "32",
+        "book": "Iona"
+    },
+    {
+        "id": "33",
+        "book": "Mica"
+    },
+    {
+        "id": "34",
+        "book": "Naum"
+    },
+    {
+        "id": "35",
+        "book": "Habacuc"
+    },
+    {
+        "id": "36",
+        "book": "Ţefania"
+    },
+    {
+        "id": "37",
+        "book": "Hagai"
+    },
+    {
+        "id": "38",
+        "book": "Zaharia"
+    },
+    {
+        "id": "39",
+        "book": "Maleahi"
+    },
+    {
+        "id": "40",
+        "book": "Matei"
+    },
+    {
+        "id": "41",
+        "book": "Marcu"
+    },
+    {
+        "id": "42",
+        "book": "Luca"
+    },
+    {
+        "id": "43",
+        "book": "Ioan"
+    },
+    {
+        "id": "44",
+        "book": "Faptele apostolilor"
+    },
+    {
+        "id": "45",
+        "book": "Romani"
+    },
+    {
+        "id": "46",
+        "book": "1 Corinteni"
+    },
+    {
+        "id": "47",
+        "book": "2 Corinteni"
+    },
+    {
+        "id": "48",
+        "book": "Galateni"
+    },
+    {
+        "id": "49",
+        "book": "Efeseni"
+    },
+    {
+        "id": "50",
+        "book": "Filipeni"
+    },
+    {
+        "id": "51",
+        "book": "Coloseni"
+    },
+    {
+        "id": "52",
+        "book": "1 Tesaloniceni"
+    },
+    {
+        "id": "53",
+        "book": "2 Tesaloniceni"
+    },
+    {
+        "id": "54",
+        "book": "1 Timotei"
+    },
+    {
+        "id": "55",
+        "book": "2 Timotei"
+    },
+    {
+        "id": "56",
+        "book": "Tit"
+    },
+    {
+        "id": "57",
+        "book": "Filimon"
+    },
+    {
+        "id": "58",
+        "book": "Evrei"
+    },
+    {
+        "id": "59",
+        "book": "Iacov"
+    },
+    {
+        "id": "60",
+        "book": "1 Petru"
+    },
+    {
+        "id": "61",
+        "book": "2 Petru"
+    },
+    {
+        "id": "62",
+        "book": "1 Ioan"
+    },
+    {
+        "id": "63",
+        "book": "2 Ioan"
+    },
+    {
+        "id": "64",
+        "book": "3 Ioan"
+    },
+    {
+        "id": "65",
+        "book": "Iuda"
+    },
+    {
+        "id": "66",
+        "book": "Apocalipsa"
+    }
+]
